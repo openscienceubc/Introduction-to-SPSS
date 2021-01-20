@@ -19,5 +19,14 @@
 }
 
 h2, h3 {
-  margin-top: 0px !important;
+  margin-top: 0px;
+}
+
+img {
+  width: 75% !important;
+  margin: 20px 0px;
+}
+
+.figure p {
+  display: none;
 }
