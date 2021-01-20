@@ -24,7 +24,7 @@ h2, h3 {
 
 img {
   width: 75% !important;
-  margin: 20px 0px;
+  margin: 0px 0px 20px 0px;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -37,6 +37,10 @@ a:link, a:visited, a:hover, a:active {
 
 .navbar a:hover {
   color: #8cacd4 !important;
+}
+
+#header {
+    padding-top: 30px !important;
 }
 
 .navbar-default {
