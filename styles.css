@@ -27,6 +27,22 @@ img {
   margin: 20px 0px;
 }
 
+a:link, a:visited, a:hover, a:active {
+  color: #8cacd4 !important;
+}
+
+.navbar a:link, .navbar a:visited, .navbar a:active {
+  color: #ffffff !important;
+}
+
+.navbar a:hover {
+  color: #8cacd4 !important;
+}
+
+.navbar-default {
+  background-color: #2e4c6d !important;
+}
+
 .figure p {
   display: none;
 }
