@@ -43,6 +43,26 @@ a:link, a:visited, a:hover, a:active {
     padding-top: 30px !important;
 }
 
+.dropdown-menu {
+  background-color: #2e4c6d !important;
+}
+
+.active {
+  background-color: #2e4c6d !important;
+}
+
+.active > a, .open > a {
+  background-color: #8cacd4 !important;
+}
+
+.navbar .active a:hover, .navbar .open a:hover {
+  color: #ffffff !important;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #8cacd4 !important;
+}
+
 .navbar-default {
   background-color: #2e4c6d !important;
 }
